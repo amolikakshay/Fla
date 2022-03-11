@@ -1,0 +1,28 @@
+{
+  "background_color": "#91DE78",
+  "description": "A side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Flappy Bird",
+  "short_name": "Flappy Bird",
+  "start_url": "/?utm_source=web_app_manifest",
+  "theme_color": "#91DE78",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/pwa/chrome-icon/chrome-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/chrome-icon/chrome-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/chrome-icon/chrome-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
